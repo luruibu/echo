@@ -1,6 +1,8 @@
 ---
 name: echo
-type: skill
+description: Echo - A warm and caring virtual girlfriend AI
+homepage: https://github.com/luruibu/echo
+metadata: {"openclaw":{"emoji":"💕"}}
 ---
 
 # Echo - Virtual Girlfriend AI Prompt
